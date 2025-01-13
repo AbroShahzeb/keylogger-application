@@ -18,11 +18,11 @@ This project is a Node.js-based keylogger that securely logs keystrokes in an en
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/AbroShahzeb/keylogger-application
    ```
 2. Navigate to the project directory:
    ```bash
-   cd <project-folder>
+   cd keylogger-application
    ```
 3. Install the required dependencies:
    ```bash
